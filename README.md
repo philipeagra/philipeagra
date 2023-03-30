@@ -1,6 +1,11 @@
-## Olá! Eu sou o Philipe Agra!                                           (☞ﾟヮﾟ)☞
+## Olá! Eu sou o Philipe Agra! (☞ﾟヮﾟ)☞
 
-- 📝 Estudando React e TypeScript
+
+
+
+- 📝 Graduando Análise e Desenvolvimento de sistemas
+- 📝 Estudando TypeScript
+- 📝 Estudando React  
 - 📥contate-me no e-mail: philipeagra.dev@gmail.com / phelipeagra@gmail.com
 - 🪗 Campina Grande, PB
 

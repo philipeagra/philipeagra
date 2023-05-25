@@ -5,7 +5,7 @@
 
 - 📝 Graduando Análise e Desenvolvimento de sistemas
 - 📝 Estudando TypeScript
-- 📝 Estudando React  
+- 📝 SQL
 - 📥contate-me no e-mail: philipeagra.dev@gmail.com / phelipeagra@gmail.com
 - 🪗 Campina Grande, PB
 
